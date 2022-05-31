@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  overflow: hidden;
+  margin: 0;
+}
+
+#webGLApp {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+img {
+  position: absolute;
+  /* opacity: 0; */
+  /* display: none; */
+}
